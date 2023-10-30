@@ -1,0 +1,195 @@
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\Users\User\source\repos\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.lref
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.lref
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.lref
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.lref
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\Users\ACER\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\Desktop\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.lref
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\Desktop\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.lref
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.deps.json
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.baml
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.baml
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\EditJobAreaWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\SearchJobAreaWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea_MarkupCompile.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.g.resources
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.csproj.CopyComplete
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\refint\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\JobArea\obj\Debug\net7.0-windows\ref\JobArea.dll

@@ -1,0 +1,303 @@
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.lref
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.lref
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.lref
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.lref
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.lref
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\Desktop\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.lref
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.deps.json
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.baml
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\EditDealWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal_MarkupCompile.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.g.resources
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.csproj.CopyComplete
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\refint\Deal.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Deal\obj\Debug\net7.0-windows\ref\Deal.dll

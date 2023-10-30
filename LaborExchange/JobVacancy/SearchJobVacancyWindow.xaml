@@ -1,0 +1,42 @@
+﻿<Window x:Class="JobVacancy.SearchJobVacancyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Поиск вакансии" Height="450" Width="800">
+    <StackPanel Grid.Row="1" Orientation="Vertical">
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Поиск" VerticalAlignment="Center" Width="50" />
+            <TextBox x:Name="SearchTextBox" HorizontalAlignment="Left" TextWrapping="Wrap"
+                                 VerticalAlignment="Center" Width="300" />
+
+            <Button x:Name="SearchJobVacancyButton" Content="Искать" Click="SearchJobVacancyButton_Click" Width="100" Height="20" Margin="5 0 0 0"/>
+        </StackPanel>
+
+        <StackPanel>
+            <Grid x:Name ="JobVacancyGridItem"  Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.90*"></RowDefinition>
+                    <RowDefinition Height="0.10*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+
+                </Grid.ColumnDefinitions>
+
+                <DataGrid x:Name="JobVacancyGrid" IsReadOnly="True" AutoGenerateColumns="False"  >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding JobType.Type}" Header="Тип вакансии" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding JobTitle.Title}" Header="Должность" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding JobArea.Title}" Header="Сфера" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding Employer.CompanyName}" Header="Компания" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding Patch}" Header="Зарплата" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <StackPanel Grid.Row="1" Orientation="Horizontal">
+                    <Button x:Name="ChoiseApplicantButton" Content="Выбрать" Click="ChoiseJobVacancyButton_Click" Width="100" Height="20" Margin="0 5 0 0" />
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </StackPanel>
+</Window>

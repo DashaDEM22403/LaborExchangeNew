@@ -1,0 +1,60 @@
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.deps.json
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Windows\ExportFirstDocumentWindow.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document_MarkupCompile.lref
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Windows\ExportFirstDocumentWindow.baml
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.g.resources
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\refint\Document.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\ref\Document.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Windows\ExportFirstDocumentWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document_MarkupCompile.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document_MarkupCompile.lref
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Windows\ExportFirstDocumentWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.g.resources
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.CopyComplete
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\refint\Document.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\ref\Document.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.deps.json
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\Document.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Windows\ExportFirstDocumentWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document_MarkupCompile.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document_MarkupCompile.lref
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Windows\ExportFirstDocumentWindow.baml
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.g.resources
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.csproj.CopyComplete
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\refint\Document.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\Document.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\Document\obj\Debug\net7.0-windows\ref\Document.dll

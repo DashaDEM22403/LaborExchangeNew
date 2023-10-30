@@ -1,0 +1,44 @@
+﻿<Window x:Class="Applicant.SearchApplicantWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Поиск соискателя" Height="450" Width="800">
+    <StackPanel Grid.Row="1" Orientation="Vertical">
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Поиск" VerticalAlignment="Center" Width="50" />
+            <TextBox x:Name="SearchTextBox" HorizontalAlignment="Left" TextWrapping="Wrap"
+                                 VerticalAlignment="Center" Width="300" />
+
+            <Button x:Name="SearchApplicantButton" Content="Искать" Click="SearchApplicantButton_Click" Width="100" Height="20" Margin="5 0 0 0"/>
+        </StackPanel>
+
+        <StackPanel>
+            <Grid x:Name ="ApplicantGridItem"  Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.90*"></RowDefinition>
+                    <RowDefinition Height="0.10*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+
+                </Grid.ColumnDefinitions>
+
+                <DataGrid x:Name="ApplicantGrid" IsReadOnly="True" AutoGenerateColumns="False"  >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding FirstName}" Header="Имя" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding LastName}" Header="Фамилия" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding Patronymic}" Header="Отчество" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding EducationType}" Header="Уровень образования" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding Speciality.Title}" Header="Специальность" Width="*"/>
+                        <DataGridTextColumn Binding="{Binding Institution.Title}" Header="Учебное заведение" Width="*"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+                <StackPanel Grid.Row="1" Orientation="Horizontal">
+                    <Button x:Name="ChoiseApplicantButton" Content="Выбрать" Click="ChoiseApplicantButton_Click" Width="100" Height="20" Margin="0 5 0 0" />
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </StackPanel>
+</Window>

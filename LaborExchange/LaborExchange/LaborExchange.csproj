@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Files\workHunterLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Files\workHunter.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Files\workHunterLogo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Cells" Version="23.8.0" />
+    <PackageReference Include="ClosedXML" Version="0.102.1" />
+    <PackageReference Include="DocX" Version="2.5.0" />
+    <PackageReference Include="EPPlus" Version="6.2.8" />
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.5.1" />
+    <PackageReference Include="GemBox.Document" Version="35.0.1480" />
+    <PackageReference Include="GemBox.Spreadsheet" Version="49.0.1454" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="7.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Office.Interop.Word" Version="15.0.4797.1004" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Files\workHunter.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Applicant\Applicant.csproj" />
+    <ProjectReference Include="..\DbContext\DbContext.csproj" />
+    <ProjectReference Include="..\Deal\Deal.csproj" />
+    <ProjectReference Include="..\Document\Document.csproj" />
+    <ProjectReference Include="..\Employer\Employer.csproj" />
+    <ProjectReference Include="..\Institution\Institution.csproj" />
+    <ProjectReference Include="..\JobArea\JobArea.csproj" />
+    <ProjectReference Include="..\JobTitle\JobTitle.csproj" />
+    <ProjectReference Include="..\JobType\JobType.csproj" />
+    <ProjectReference Include="..\JobVacancy\JobVacancy.csproj" />
+    <ProjectReference Include="..\Speciality\Speciality.csproj" />
+  </ItemGroup>
+
+</Project>

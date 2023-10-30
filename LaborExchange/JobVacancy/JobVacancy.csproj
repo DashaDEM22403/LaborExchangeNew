@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Page Update="EditJobVacancyWindow.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <XamlRuntime>Wpf</XamlRuntime>
+        <SubType>Designer</SubType>
+      </Page>
+      <Page Update="SearchJobVacancyWindow.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <XamlRuntime>Wpf</XamlRuntime>
+        <SubType>Designer</SubType>
+      </Page>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="EditJobVacancyWindow.xaml.cs">
+        <SubType>Code</SubType>
+      </Compile>
+      <Compile Update="SearchJobVacancyWindow.xaml.cs">
+        <SubType>Code</SubType>
+      </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DbContext\DbContext.csproj" />
+      <ProjectReference Include="..\Employer\Employer.csproj" />
+      <ProjectReference Include="..\JobArea\JobArea.csproj" />
+      <ProjectReference Include="..\JobTitle\JobTitle.csproj" />
+    </ItemGroup>
+
+</Project>

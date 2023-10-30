@@ -1,0 +1,25 @@
+﻿<Window x:Class="Speciality.EditSpecialityWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Редактирование специальности" Height="450" Width="800">
+    <StackPanel Orientation="Horizontal">
+        <StackPanel>
+            <StackPanel Width="300">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Название специальности:" HorizontalAlignment="Left" VerticalAlignment="Center" Width="160" />
+                    <TextBox TextWrapping="Wrap" VerticalAlignment="Center" Width="120"
+                         Text="{Binding Path=Speciality.Title}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Код специальности:" HorizontalAlignment="Left" VerticalAlignment="Center" Width="160" />
+                    <TextBox TextWrapping="Wrap" VerticalAlignment="Center" Width="120"
+                         Text="{Binding Path=Speciality.Code}" />
+                </StackPanel>
+                <Button Content="Сохранить" Click="SaveSpecialityButton_Click" Width="120"/>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

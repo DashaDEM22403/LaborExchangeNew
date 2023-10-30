@@ -1,0 +1,988 @@
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\Users\User\source\repos\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\Users\ACER\source\repos\LaborExchange\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchange222\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll
+C:\Users\gubarev.av\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Word.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Document.NET5.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Words.NET5.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Document.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Spreadsheet.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\HarfBuzzSharp.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Word.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\WEB\WorkAuthor\Dublicate\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Document.NET5.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Words.NET5.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Document.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Spreadsheet.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\HarfBuzzSharp.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\ACER\Desktop\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Document.NET5.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Words.NET5.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Document.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Spreadsheet.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\HarfBuzzSharp.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Document.dll
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Document.pdb
+C:\Users\User\source\repos\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocXCore.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Document.NET5.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Words.NET5.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocXCore.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Document.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Spreadsheet.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\HarfBuzzSharp.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Document.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Document.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.exe
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.deps.json
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.runtimeconfig.json
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Aspose.Cells.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Document.NET5.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Words.NET5.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DocXCore.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Document.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\GemBox.Spreadsheet.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\HarfBuzzSharp.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Document.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Applicant.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\DbContext.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Deal.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Document.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Employer.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Institution.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobArea.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobTitle.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobType.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\JobVacancy.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\bin\Debug\net7.0-windows\Speciality.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_Content.g.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange_MarkupCompile.lref
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AccessRightWindow\EditAccessRightWindow.baml
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\Windows\AuthWindow.baml
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.g.resources
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.csproj.CopyComplete
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\refint\LaborExchange.dll
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.pdb
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\LaborExchange.genruntimeconfig.cache
+C:\Users\ACER\Desktop\LaborExchangeNew\LaborExchange\LaborExchange\obj\Debug\net7.0-windows\ref\LaborExchange.dll

@@ -1,0 +1,20 @@
+﻿<Window x:Class="JobType.EditJobTypeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Редактирование типа вакансии" Height="450" Width="800">
+    <StackPanel Orientation="Horizontal">
+        <StackPanel>
+            <StackPanel Width="300">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Название типа вакансии:" HorizontalAlignment="Left" VerticalAlignment="Center" Width="160" />
+                    <TextBox TextWrapping="Wrap" VerticalAlignment="Center" Width="120"
+                         Text="{Binding Path=JobType.Type}" />
+                </StackPanel>
+                <Button Content="Сохранить" Click="SaveJobTypeButton_Click" Width="120"/>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>
